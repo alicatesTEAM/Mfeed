@@ -1,0 +1,57 @@
+name: run main.py
+
+on:
+  workflow_dispatch:
+  
+  schedule:
+    # Corre todos los días a las 00:50 UTC (01:50 CET / 02:50 CET summer)
+    - cron: '50 0 * * *'
+    #- cron: '0 0-10/3 * * *'
+    # Corre cada 6h    
+    #- cron: '0 */6 * * *'
+    # Test
+    #- cron: '15,45 10-23 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push
+      contents: write
+      
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v4 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9' # install the python version needed
+
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: execute py script # run main.py
+        #env:
+          #SOME_SECRET: ${{ secrets.SOME_SECRET }}
+        run: python main.py
+          
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "New publication" --allow-empty)
+          
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          #github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+            
