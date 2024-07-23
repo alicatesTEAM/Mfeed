@@ -35,7 +35,7 @@ def export_movistarEPG_to_csv():
         writer.writeheader()
         writer.writerows(csv_data)
 
-    print("movistarEPG se ha descargado correctamente")
+    print("movistarEPG se ha descargado")
 
 
 export_movistarEPG_to_csv()
