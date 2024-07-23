@@ -5,7 +5,7 @@ on:
   
   schedule:
     # Corre todos los días a las 00:50 UTC (01:50 CET / 02:50 CET summer)
-    - cron: '50 0 * * *'
+    - cron: '0 12 * * *'
     #- cron: '0 0-10/3 * * *'
     # Corre cada 6h    
     #- cron: '0 */6 * * *'
@@ -47,7 +47,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "New publication" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Cambios en movistarEPG" --allow-empty)
           
       - name: push changes
         uses: ad-m/github-push-action@master
