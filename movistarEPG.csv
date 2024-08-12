@@ -132,19 +132,11 @@ Indice,Nombre,FormatoVideo,CodCadenaTv,CasId,PuntoReproduccion
 131,M+ LALIGA TV 3,HD,MLIG2,4834,http://3liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 132,Movistar Plus+ 2,HD,MPLUS2,5264,http://2plus-dash-movistarplus.emisiondof6.com/manifest.mpd
 133,LALIGA TV HYPERMOTION 3,HD,MLIGS3,5137,http://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
-134,Eurosport 3,HD,CHAP3,4565,http://04campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
-135,Eurosport 4,HD,CHAP4,4568,http://05campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
-136,Eurosport 5,HD,CHAP5,4570,http://06campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
-137,Eurosport 6,HD,CHAP6,4572,http://07campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
-138,Eurosport 7,HD,ESP7,5316,http://07eurosport-dash-movistarplus.emisiondof6.com/manifest.mpd
-139,Eurosport 8,HD,ESP8,5319,http://08eurosport-dash-movistarplus.emisiondof6.com/manifest.mpd
-140,Eurosport 9,HD,ESP9,5322,http://09eurosport-dash-movistarplus.emisiondof6.com/manifest.mpd
-141,M+ Deportes 4,HD,USOP3,4561,http://4multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
-142,M+ Deportes 5,HD,USOP11,4562,http://5multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
-143,M+ Deportes 6,HD,MULTI8,4566,http://6multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
-144,M+ Deportes 7,SD,MULTI6,4569,http://7multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
-145,M+ Deportes 8,SD,MULTI9,4769,http://8multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
-146,DAZN 3,HD,DAZN3,4961,http://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd
-147,DAZN 4,HD,DAZN4,4962,http://dazn4-dash-movistarplus.emisiondof6.com/manifest.mpd
-148,M+ LALIGA TV UHD,4K,MLIGUH,5077,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
-149,Eurosport 4K,4K,ESP4K,5272,http://1eventuhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+134,M+ Deportes 4,HD,USOP3,4561,http://4multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
+135,M+ Deportes 5,HD,USOP11,4562,http://5multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
+136,M+ Deportes 6,HD,MULTI8,4566,http://6multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
+137,M+ Deportes 7,SD,MULTI6,4569,http://7multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
+138,M+ Deportes 8,SD,MULTI9,4769,http://8multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
+139,DAZN 3,HD,DAZN3,4961,http://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd
+140,DAZN 4,HD,DAZN4,4962,http://dazn4-dash-movistarplus.emisiondof6.com/manifest.mpd
+141,M+ LALIGA TV UHD,4K,MLIGUH,5077,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
