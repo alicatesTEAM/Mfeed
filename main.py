@@ -17,7 +17,6 @@ def export_movistarEPG_to_csv():
     csv_data = []
     for indice, grupo in enumerate(movistarEPG):
         csv_data.append({
-            "Indice": indice + 1,
             "Nombre": grupo.get("Nombre", "").replace("\t", "").replace("\n", ""),
             "FormatoVideo": grupo.get("FormatoVideo", ""),
             "CodCadenaTv": grupo.get("CodCadenaTv", ""),
@@ -27,7 +26,7 @@ def export_movistarEPG_to_csv():
         })
 
     # Define CSV headers
-    headers = ["Indice", "Nombre", "FormatoVideo", "CodCadenaTv", "CasId", "PuntoReproduccion"]
+    headers = ["Nombre", "FormatoVideo", "CodCadenaTv", "CasId", "PuntoReproduccion"]
 
     # Write CSV data to file
     with open(movistarEPG_file_path, mode='w', newline='', encoding='utf-8') as file:
