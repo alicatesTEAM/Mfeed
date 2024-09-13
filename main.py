@@ -1,18 +1,19 @@
 import requests
 import csv
 
-movistarEPG_file_path = "movistarEPG.csv"
-epg_url = "https://ottcache.dof6.com/movistarplus/webplayer/OTT/contents/epg"
+ott_url = "https://ottcache.dof6.com/movistarplus/webplayer/OTT/contents/epg"
+ott_csv_filepath = "ott.csv"
+difusion_url = "https://ottcache.dof6.com/movistarplus/webplayer/DIFUSION/contents/epg"
+difusion_csv_filepath = "difusion.csv"
 
-
-def export_movistarEPG_to_csv():
+def export_movistarEPG_to_csv(epg_url, filepath):
 
     response = requests.get(epg_url)
     if response.status_code == 200:
         movistarEPG = response.json()
     else:
         print("ERROR: movistarEPG no disponible")
-        exit(1)
+        return
 
     csv_data = []
     for indice, grupo in enumerate(movistarEPG):
@@ -29,12 +30,19 @@ def export_movistarEPG_to_csv():
     headers = ["Nombre", "FormatoVideo", "CodCadenaTv", "CasId", "PuntoReproduccion"]
 
     # Write CSV data to file
-    with open(movistarEPG_file_path, mode='w', newline='', encoding='utf-8') as file:
-        writer = csv.DictWriter(file, fieldnames=headers, delimiter=',')
+    with open(filepath, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=headers, delimiter=';')
         writer.writeheader()
         writer.writerows(csv_data)
 
-    print("movistarEPG se ha descargado")
+    print(f"movistarEPG exported to {filepath}")
 
 
-export_movistarEPG_to_csv()
+def flujo_vaginal():
+
+    export_movistarEPG_to_csv(ott_url, ott_csv_filepath)
+    export_movistarEPG_to_csv(difusion_url, difusion_csv_filepath)
+
+
+flujo_vaginal()
+
