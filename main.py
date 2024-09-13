@@ -31,7 +31,7 @@ def export_movistarEPG_to_csv(epg_url, filepath):
 
     # Write CSV data to file
     with open(filepath, mode='w', newline='', encoding='utf-8') as file:
-        writer = csv.DictWriter(file, fieldnames=headers, delimiter=';')
+        writer = csv.DictWriter(file, fieldnames=headers, delimiter=',')
         writer.writeheader()
         writer.writerows(csv_data)
 
