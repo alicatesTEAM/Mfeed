@@ -11,6 +11,7 @@ Canal Sur,HD,CANSUR,4980,http://tdtcsur-dash-movistarplus.emisiondof6.com/manife
 M+ Cine,HD,MV1,4501,http://1mcine-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Series,HD,MV2,4527,http://m1series-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Originales,HD,MORIG,5259,http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Terror,HD,TERROR,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Documentales,HD,MDOC,5245,http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Hitchcock ,SD,MHITCH,5252,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 La Resistencia,HD,RESIST,5032,http://resistencia-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -159,6 +160,7 @@ Eurosport 4K,4K,ESP4K,5272,http://1eventuhd-dash-movistarplus.emisiondof6.com/ma
 Pruebas 20 SD_OTT,SD,P20OTT,5162,http://test20-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 21_SD_OTT,SD,P21OTT,5163,http://test21-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 22_SD_OTT,SD,P22OTT,5164,https://test22-dash-movistarplus.emisiondof6.com/manifest.mpd
+Pruebas 8,SD,PRUE8,5288,http://01pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 TV3,SD,TV3CAT,4982,http://tdttv3-dash-movistarplus.emisiondof6.com/manifest.mpd
 TVG -TV Galicia,HD,TVGAL,4983,http://tdt1galicia-dash-movistarplus.emisiondof6.com/manifest.mpd
 Telemadrid,HD,TELMAD,4981,http://tdttelemadrid-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -170,4 +172,3 @@ TV Canaria,HD,CANAR,5089,http://tdttvcanarias-dash-movistarplus.emisiondof6.com/
 Castilla la Mancha TV,HD,CASMAN,5265,http://tdtcastmancha-dash-movistarplus.emisiondof6.com/manifest.mpd
 La 7,HD,CYLTV,5266,http://tdtcastleon-dash-movistarplus.emisiondof6.com/manifest.mpd
 À Punt,HD,APUNT,5088,http://tdtapuntvalencia-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Terror,,TERROR,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
