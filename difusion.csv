@@ -178,3 +178,7 @@ Pruebas 23,SD,PRUE23,5289,http://02pruebasim-dash-movistarplus.emisiondof6.com/m
 Pruebas 24,SD,PRUE24,5290,http://03pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 25,SD,PRUE25,5291,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 26,SD,PRUE26,5293,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
+BBC History,HD,BBHIS,5366,http://historybbc-dash-movistarplus.emisiondof6.com/manifest.mpd
+BBC Food,HD,BBFOO,5360,http://foodbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
+BBC Drama,,BBDRA,5363,http://dramabbc-dash-movistarplus.emisiondof6.com/manifest.mpd
+BBC Top Gear,,BBGEA,5369,http://topgearbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
