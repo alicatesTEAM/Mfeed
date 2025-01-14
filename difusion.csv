@@ -10,6 +10,7 @@ M+ Vamos,HD,VAMOSD,4767,http://vamos-dash-movistarplus.emisiondof6.com/manifest.
 M+ Cine,HD,MV1,4501,http://1mcine-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Series,HD,MV2,4527,http://m1series-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Originales,HD,MORIG,5259,http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Los Goya,HD,MGOYA,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Documentales,HD,MDOC,5245,http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Frank Capra,HD,MCAPRA,5252,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 La Resistencia,HD,RESIST,5032,http://resistencia-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -22,6 +23,8 @@ M+ Cine Español,HD,DCESP,4502,http://espanol-dash-movistarplus.emisiondof6.com/
 Max Avances,HD,MAXAVA,5333,http://01max-dash-movistarplus.emisiondof6.com/manifest.mpd
 SkyShowtime 1,HD,SKYSHO,5271,http://01sky-dash-movistarplus.emisiondof6.com/manifest.mpd
 TCM,HD,TCM,4603,http://tcm-dash-movistarplus.emisiondof6.com/manifest.mpd
+BBC Drama,HD,BBDRA,5363,http://dramabbc-dash-movistarplus.emisiondof6.com/manifest.mpd
+BBC Top Gear,HD,BBGEA,5369,http://topgearbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 Paramount Network,HD,PARCH,4586,http://paramount-dash-movistarplus.emisiondof6.com/manifest.mpd
 BE MAD,HD,BEMAD,4560,http://bemad-dash-movistarplus.emisiondof6.com/manifest.mpd
 STAR Channel,HD,FOXGE,4528,http://01star-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -66,8 +69,10 @@ El Garage TV,SD,GARAGE,5273,http://garagetv-dash-movistarplus.emisiondof6.com/ma
 Ubeat,HD,UBEAT,4886,http://ubeat-dash-movistarplus.emisiondof6.com/manifest.mpd
 National Geographic,HD,NATGEO,4604,http://geonat-dash-movistarplus.emisiondof6.com/manifest.mpd
 Nat Geo Wild,HD,NATGW,4610,http://wildnatgeo-dash-movistarplus.emisiondof6.com/manifest.mpd
+BBC History,HD,BBHIS,5366,http://historybbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 Discovery,HD,DCR,4545,http://discovery-dash-movistarplus.emisiondof6.com/manifest.mpd
 DMAX,SD,DCRMAX,5244,http://dmax-dash-movistarplus.emisiondof6.com/manifest.mpd
+BBC Food,HD,BBFOO,5360,http://foodbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 DKISS,SD,DKISS,5246,http://dkiss-dash-movistarplus.emisiondof6.com/manifest.mpd
 Divinity,HD,DIVINI,4507,http://divinity-dash-movistarplus.emisiondof6.com/manifest.mpd
 Nova,HD,NOVA,4601,http://nova-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -78,7 +83,6 @@ Disney Junior,HD,PLAYDC,4509,http://jrdisney-dash-movistarplus.emisiondof6.com/m
 NICK JR,HD,NICKJR,4511,http://jrnick-dash-movistarplus.emisiondof6.com/manifest.mpd
 Nickelodeon,HD,NICK,4512,http://nickelodeon-dash-movistarplus.emisiondof6.com/manifest.mpd
 Dreamworks,HD,DWSP,4965,http://dreamworks-dash-movistarplus.emisiondof6.com/manifest.mpd
-Disney Channel,HD,DCH,4599,http://disneychannel-dash-movistarplus.emisiondof6.com/manifest.mpd
 Boing,SD,BOING,4563,http://boing-dash-movistarplus.emisiondof6.com/manifest.mpd
 Clan TVE,HD,CLANTV,4611,http://clan-dash-movistarplus.emisiondof6.com/manifest.mpd
 MTV,SD,MTV,4499,http://espanamtv-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -163,8 +167,3 @@ Pruebas 23,SD,PRUE23,5289,http://02pruebasim-dash-movistarplus.emisiondof6.com/m
 Pruebas 24,SD,PRUE24,5290,http://03pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 25,SD,PRUE25,5291,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 26,SD,PRUE26,5293,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
-BBC History,HD,BBHIS,5366,http://historybbc-dash-movistarplus.emisiondof6.com/manifest.mpd
-BBC Food,HD,BBFOO,5360,http://foodbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
-BBC Drama,HD,BBDRA,5363,http://dramabbc-dash-movistarplus.emisiondof6.com/manifest.mpd
-BBC Top Gear,HD,BBGEA,5369,http://topgearbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Los Goya,HD,MGOYA,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
