@@ -21,8 +21,8 @@ Telemadrid,HD,TELMAD,4981,http://tdttelemadrid-dash-movistarplus.emisiondof6.com
 7 TV Región Murcia,HD,7TVMUR,5356,http://tdtmurcia-dash-movistarplus.emisiondof6.com/manifest.mpd
 ETB 1,HD,ETB1,5074,http://tdt1etb-dash-movistarplus.emisiondof6.com/manifest.mpd
 Navarra TV,HD,NAVA,5210,http://tdtnavarra-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Cine,HD,MV1,4501,http://1mcine-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Series,HD,MV2,4527,http://m1series-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Estrenos,HD,MV1,4501,http://1mcine-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Hits,HD,MHITS,4527,http://m1series-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Originales,HD,MORIG,5259,http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Los Goya,HD,MGOYA,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Documentales,HD,MDOC,5245,http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -152,4 +152,3 @@ M+ Deportes 8,SD,MULTI9,4769,http://8multidep-dash-movistarplus.emisiondof6.com/
 DAZN 3,HD,DAZN3,4961,http://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN 4,HD,DAZN4,4962,http://dazn4-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA TV UHD,4K,MLIGUH,5077,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
-Eurosport 4K,4K,ESP4K,5272,http://1eventuhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
