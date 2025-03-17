@@ -10,9 +10,9 @@ M+ Vamos,HD,VAMOSD,4767,http://vamos-dash-movistarplus.emisiondof6.com/manifest.
 M+ Estrenos,HD,MV1,4501,http://1mcine-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Hits,HD,MHITS,4527,http://m1series-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Originales,HD,MORIG,5259,http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Los 90,HD,MOSCAR,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Los 90,,ML90,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Documentales,HD,MDOC,5245,http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ De época,HD,MEPOCA,5252,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Musicales ,HD,MEPOCA,5252,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 La Resistencia,HD,RESIST,5032,http://resistencia-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Clásicos,HD,MCLAS,4999,http://mclasicos-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Acción,HD,CPACCI,4542,http://accion-dash-movistarplus.emisiondof6.com/manifest.mpd
