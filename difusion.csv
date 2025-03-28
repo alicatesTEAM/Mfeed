@@ -167,5 +167,5 @@ Pruebas 24,SD,PRUE24,5290,http://03pruebasim-dash-movistarplus.emisiondof6.com/m
 Pruebas 25,SD,PRUE25,5291,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 26,SD,PRUE26,5293,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 UCL,SD,UCL,5414,http://tvucl-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Liga de Campeones HDR,,CHHDR,5418,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
-M+ Liga de Campeones2 HDR,,CHHDR2,5425,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+M+ Liga de Campeones HDR,HD,CHHDR,5418,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+M+ Liga de Campeones2 HDR,HD,CHHDR2,5424,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
