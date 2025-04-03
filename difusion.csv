@@ -7,13 +7,12 @@ Telecinco,HD,T5,4525,http://tele5-dash-movistarplus.emisiondof6.com/manifest.mpd
 La Sexta,HD,SEXTA,4526,http://lasexta-dash-movistarplus.emisiondof6.com/manifest.mpd
 Movistar Plus+,HD,MPLUS,5240,http://mplus-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Vamos,HD,VAMOSD,4767,http://vamos-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Estrenos,HD,MV1,4501,http://1mcine-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Hits,HD,MHITS,4527,http://m1series-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Estrenos,HD,MV1,4501,http://m1estrenos-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Hits,HD,MHITS,4527,http://m1hits-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Originales,HD,MORIG,5259,http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Los 90,HD,ML90,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Documentales,HD,MDOC,5245,http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd
 Musicales por M+ ,HD,MMUSIC,5252,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd
-La Resistencia,HD,RESIST,5032,http://resistencia-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Clásicos,HD,MCLAS,4999,http://mclasicos-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Acción,HD,CPACCI,4542,http://accion-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Comedia,HD,CPCOME,4573,http://comedia-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -132,6 +131,8 @@ M+ Deportes 8,SD,MULTI9,4769,http://8multidep-dash-movistarplus.emisiondof6.com/
 DAZN 3,HD,DAZN3,4961,http://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN 4,HD,DAZN4,4962,http://dazn4-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA TV UHD,4K,MLIGUH,5077,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+M+ Liga de Campeones HDR,HD,CHHDR,5418,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+M+ Liga de Campeones2 HDR,HD,CHHDR2,5424,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 Pruebas 1_OTT,SD,P1OTT,5121,http://test01-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 2_OTT,SD,P2OTT,4924,http://test02-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 3_OTT,SD,P3OTT,5052,http://test03-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -167,5 +168,3 @@ Pruebas 24,SD,PRUE24,5290,http://03pruebasim-dash-movistarplus.emisiondof6.com/m
 Pruebas 25,SD,PRUE25,5291,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 26,SD,PRUE26,5293,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 UCL,SD,UCL,5414,http://tvucl-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Liga de Campeones HDR,HD,CHHDR,5418,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
-M+ Liga de Campeones2 HDR,HD,CHHDR2,5424,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
