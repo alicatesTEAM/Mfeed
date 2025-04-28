@@ -24,9 +24,8 @@ Navarra TV,HD,NAVA,5210,http://tdtnavarra-dash-movistarplus.emisiondof6.com/mani
 M+ Estrenos,HD,MV1,4501,http://m1estrenos-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Hits,HD,MHITS,4527,http://m1hits-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Originales,HD,MORIG,5259,http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Los 90,HD,ML90,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+E: Tom Cruise,HD,ML90,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Documentales,HD,MDOC,5245,http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd
-Musicales por M+ ,HD,MMUSIC,5252,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Clásicos,HD,MCLAS,4999,http://mclasicos-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Acción,HD,CPACCI,4542,http://accion-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Comedia,HD,CPCOME,4573,http://comedia-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -53,7 +52,6 @@ Energy,HD,ENERGY,4540,http://energy-dash-movistarplus.emisiondof6.com/manifest.m
 Factoría de Ficción,HD,FDFIC,4537,http://fdf-dash-movistarplus.emisiondof6.com/manifest.mpd
 Neox,HD,NEOX,4538,http://neox-dash-movistarplus.emisiondof6.com/manifest.mpd
 Atreseries,HD,ATRESS,4539,http://a3series-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Copa del Rey,HD,MCOPA,5355,http://01coparey-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA TV,HD,MLIGA,4882,http://mlaliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN LALIGA,HD,DAZNLI,5119,http://01daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION,HD,MLIGS,5124,http://msegdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
