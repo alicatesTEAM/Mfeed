@@ -111,6 +111,11 @@ TV3 Cat,HD,TVC,4555,http://tv3cat-dash-movistarplus.emisiondof6.com/manifest.mpd
 Telemadrid Int.,HD,TELMIN,5092,http://inttelemadrid-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA TV 3,HD,MLIG2,4834,http://3liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA TV 4,HD,MLIG3,4835,http://4liga-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ LALIGA TV 5,HD,MLIG4,4836,http://5liga-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ LALIGA TV 6,HD,MLIG5,4837,http://6liga-dash-movistarplus.emisiondof6.com/manifest.mpd
+DAZN LALIGA 3,HD,DAZNL3,5209,http://03daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
+DAZN LALIGA 4,HD,DAZNL4,5213,http://04daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
+DAZN LALIGA 5,HD,DAZNL5,5372,http://05daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 Movistar Plus+ 2,HD,MPLUS2,5264,http://2plus-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION 3,HD,MLIGS3,5137,http://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes 4,HD,USOP3,4561,http://4multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -158,11 +163,6 @@ Pruebas 24,SD,PRUE24,5290,http://03pruebasim-dash-movistarplus.emisiondof6.com/m
 Pruebas 25,SD,PRUE25,5291,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 26,SD,PRUE26,5293,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION 7,HD,MLIGS7,5215,http://7segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ LALIGA TV 5,HD,MLIG4,4836,http://5liga-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ LALIGA TV 6,HD,MLIG5,4837,http://6liga-dash-movistarplus.emisiondof6.com/manifest.mpd
-DAZN LALIGA 3,HD,DAZNL3,5209,http://03daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
-DAZN LALIGA 4,HD,DAZNL4,5213,http://04daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
-DAZN LALIGA 5,HD,DAZNL5,5372,http://05daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION 4,HD,MLIGS4,5217,http://4segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION 5,HD,MLIGS5,5219,http://5segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION 6,HD,MLIGS6,4838,http://6segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
