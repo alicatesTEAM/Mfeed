@@ -24,6 +24,7 @@ Navarra TV,HD,NAVA,5210,http://tdtnavarra-dash-movistarplus.emisiondof6.com/mani
 M+ Estrenos,HD,MV1,4501,http://m1estrenos-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Hits,HD,MHITS,4527,http://m1hits-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Originales,HD,MORIG,5259,http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Thriller,HD,MTHRI,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Documentales,HD,MDOC,5245,http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Comedia Ñ,HD,MESPAÑ,5252,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Clásicos,HD,MCLAS,4999,http://mclasicos-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -35,6 +36,7 @@ M+ Cine Español,HD,DCESP,4502,http://espanol-dash-movistarplus.emisiondof6.com/
 Max Avances,HD,MAXAVA,5333,http://01max-dash-movistarplus.emisiondof6.com/manifest.mpd
 SkyShowtime 1,HD,SKYSHO,5271,http://01sky-dash-movistarplus.emisiondof6.com/manifest.mpd
 TCM,HD,TCM,4603,http://tcm-dash-movistarplus.emisiondof6.com/manifest.mpd
+AXN Movies,HD,SET,4535,http://moviesaxn-dash-movistarplus.emisiondof6.com/manifest.mpd
 BBC Drama,HD,BBDRA,5363,http://dramabbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 BBC Top Gear,HD,BBGEA,5369,http://topgearbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 Paramount Network,HD,PARCH,4586,http://paramount-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -46,7 +48,6 @@ Comedy Central,HD,PCM,4531,http://comedycentral-dash-movistarplus.emisiondof6.co
 Calle 13,HD,CL13,4532,http://calle13-dash-movistarplus.emisiondof6.com/manifest.mpd
 COSMO,HD,COSMO,4533,http://cosmo-dash-movistarplus.emisiondof6.com/manifest.mpd
 SYFY,HD,SCI-FI,4536,http://syfy-dash-movistarplus.emisiondof6.com/manifest.mpd
-AXN Movies,HD,SET,4535,http://moviesaxn-dash-movistarplus.emisiondof6.com/manifest.mpd
 TRECE,HD,13TV,5094,http://tdt13tv-dash-movistarplus.emisiondof6.com/manifest.mpd
 Energy,HD,ENERGY,4540,http://energy-dash-movistarplus.emisiondof6.com/manifest.mpd
 Factoría de Ficción,HD,FDFIC,4537,http://fdf-dash-movistarplus.emisiondof6.com/manifest.mpd
