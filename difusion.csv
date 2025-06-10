@@ -12,6 +12,7 @@ M+ Hits,HD,MHITS,4527,http://m1hits-dash-movistarplus.emisiondof6.com/manifest.m
 M+ Originales,HD,MORIG,5259,http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Thriller,HD,MTHRI,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Documentales,HD,MDOC,5245,http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Todo Chaplin,HD,MCHAP,5252,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Clásicos,HD,MCLAS,4999,http://mclasicos-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Acción,HD,CPACCI,4542,http://accion-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Comedia,HD,CPCOME,4573,http://comedia-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -111,13 +112,9 @@ Telemadrid Int.,HD,TELMIN,5092,http://inttelemadrid-dash-movistarplus.emisiondof
 M+ LALIGA TV 3,HD,MLIG2,4834,http://3liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA TV 4,HD,MLIG3,4835,http://4liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 Movistar Plus+ 2,HD,MPLUS2,5264,http://2plus-dash-movistarplus.emisiondof6.com/manifest.mpd
+LALIGA TV HYPERMOTION 3,HD,MLIGS3,5137,http://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones  4,HD,CHAP3,4565,http://04campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones 5,HD,CHAP4,4568,http://05campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
-LALIGA TV HYPERMOTION 3,HD,MLIGS3,5137,http://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
-LALIGA TV HYPERMOTION 4,HD,MLIGS4,5217,http://4segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
-LALIGA TV HYPERMOTION 5,HD,MLIGS5,5219,http://5segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
-LALIGA TV HYPERMOTION 6,HD,MLIGS6,4838,http://6segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
-LALIGA TV HYPERMOTION 7,HD,MLIGS7,5215,http://7segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes 4,HD,USOP3,4561,http://4multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes 5,HD,USOP11,4562,http://5multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes 6,HD,MULTI8,4566,http://6multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -127,7 +124,6 @@ DAZN 3,HD,DAZN3,4961,http://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN 4,HD,DAZN4,4962,http://dazn4-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA TV UHD,4K,MLIGUH,5077,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 M+ Liga de Campeones HDR,HD,CHHDR,5418,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
-Eurosport 4K,4K,ESP4K,5272,http://1eventuhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 Pruebas 1_OTT,SD,P1OTT,5121,http://test01-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 2_OTT,SD,P2OTT,4924,http://test02-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 3_OTT,SD,P3OTT,5052,http://test03-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -139,6 +135,7 @@ Pruebas 18_OTT,SD,P18OTT,5146,http://test18-dash-movistarplus.emisiondof6.com/ma
 Pruebas 19_OTT,SD,P19OTT,5147,http://test19-dash-movistarplus.emisiondof6.com/manifest.mpd
 SKAM,SD,SKAM,4896,http://skam-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones2 HDR,HD,CHHDR2,5424,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+Eurosport 4K,4K,ESP4K,5272,http://1eventuhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 Test UHD 1,4K,TESUHD,5057,http://1uhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 Pruebas 20 SD_OTT,SD,P20OTT,5162,http://test20-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 21_SD_OTT,SD,P21OTT,5163,http://test21-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -162,4 +159,3 @@ Pruebas 23,SD,PRUE23,5289,http://02pruebasim-dash-movistarplus.emisiondof6.com/m
 Pruebas 24,SD,PRUE24,5290,http://03pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 25,SD,PRUE25,5291,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 26,SD,PRUE26,5293,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Todo Chaplin,HD,MCHAP,5252,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd
