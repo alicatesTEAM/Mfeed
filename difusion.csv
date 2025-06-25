@@ -122,8 +122,6 @@ M+ Deportes 7,SD,MULTI6,4569,http://7multidep-dash-movistarplus.emisiondof6.com/
 M+ Deportes 8,SD,MULTI9,4769,http://8multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN 3,HD,DAZN3,4961,http://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN 4,HD,DAZN4,4962,http://dazn4-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ LALIGA TV UHD,4K,MLIGUH,5077,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
-M+ Liga de Campeones HDR,HD,CHHDR,5418,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 Pruebas 1_OTT,SD,P1OTT,5121,http://test01-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 2_OTT,SD,P2OTT,4924,http://test02-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 3_OTT,SD,P3OTT,5052,http://test03-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -135,8 +133,10 @@ Pruebas 18_OTT,SD,P18OTT,5146,http://test18-dash-movistarplus.emisiondof6.com/ma
 Pruebas 19_OTT,SD,P19OTT,5147,http://test19-dash-movistarplus.emisiondof6.com/manifest.mpd
 SKAM,SD,SKAM,4896,http://skam-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Wimbledon UHD,4K,POPUHD,5313,http://1eventuhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
-M+ Liga de Campeones2 HDR,HD,CHHDR2,5424,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 Test UHD 1,4K,TESUHD,5057,http://1uhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+M+ LALIGA TV UHD,4K,MLIGUH,5077,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+M+ Liga de Campeones HDR,HD,CHHDR,5418,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+M+ Liga de Campeones2 HDR,HD,CHHDR2,5424,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 Pruebas 20 SD_OTT,SD,P20OTT,5162,http://test20-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 21_SD_OTT,SD,P21OTT,5163,http://test21-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 22_SD_OTT,SD,P22OTT,5164,https://test22-dash-movistarplus.emisiondof6.com/manifest.mpd
