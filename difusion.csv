@@ -134,6 +134,7 @@ Pruebas 19_OTT,SD,P19OTT,5147,http://test19-dash-movistarplus.emisiondof6.com/ma
 SKAM,SD,SKAM,4896,http://skam-dash-movistarplus.emisiondof6.com/manifest.mpd
 Test UHD 1,4K,TESUHD,5057,http://1uhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 M+ LALIGA HDR,HD,MLIGUH,5077,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+M+ LALIGA 2 HDR,HD,MLIUHD,5474,http://hdr2liga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 M+ Liga de Campeones HDR,HD,CHHDR,5418,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 M+ Liga de Campeones2 HDR,HD,CHHDR2,5424,http://uhd2mcamp-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 Pruebas 20 SD_OTT,SD,P20OTT,5162,http://test20-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -158,4 +159,3 @@ Pruebas 23,SD,PRUE23,5289,http://02pruebasim-dash-movistarplus.emisiondof6.com/m
 Pruebas 24,SD,PRUE24,5290,http://03pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 25,SD,PRUE25,5291,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 26,SD,PRUE26,5293,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ LALIGA 2 HDR,HD,MLIUHD,5474,http://hdr2liga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
