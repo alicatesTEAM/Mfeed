@@ -53,10 +53,10 @@ Energy,HD,ENERGY,4540,http://energy-dash-movistarplus.emisiondof6.com/manifest.m
 Factoría de Ficción,HD,FDFIC,4537,http://fdf-dash-movistarplus.emisiondof6.com/manifest.mpd
 Neox,HD,NEOX,4538,http://neox-dash-movistarplus.emisiondof6.com/manifest.mpd
 Atreseries,HD,ATRESS,4539,http://a3series-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ LALIGA TV,HD,MLIGA,4882,http://mlaliga-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ LALIGA,HD,MLIGA,4882,http://mlaliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN LALIGA,HD,DAZNLI,5119,http://01daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION,HD,MLIGS,5124,http://msegdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ LALIGA TV 2,HD,MLIG1,4833,http://2liga-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ LALIGA 2,HD,MLIG1,4833,http://2liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN LALIGA 2,HD,DAZNL2,5120,http://02daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION 2,HD,MLIGS2,5127,http://2segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones,HD,CHAPIO,4594,http://mligacampeones-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -123,8 +123,8 @@ Aragón TV Int,SD,ARAGON,4615,http://aragon-dash-movistarplus.emisiondof6.com/ma
 EITB Basque,SD,ETB,4557,http://etb-dash-movistarplus.emisiondof6.com/manifest.mpd
 TV3 Cat,HD,TVC,4555,http://tv3cat-dash-movistarplus.emisiondof6.com/manifest.mpd
 Telemadrid Int.,HD,TELMIN,5092,http://inttelemadrid-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ LALIGA TV 3,HD,MLIG2,4834,http://3liga-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ LALIGA TV 4,HD,MLIG3,4835,http://4liga-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ LALIGA 3,HD,MLIG2,4834,http://3liga-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ LALIGA 4,HD,MLIG3,4835,http://4liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 Movistar Plus+ 2,HD,MPLUS2,5264,http://2plus-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION 3,HD,MLIGS3,5137,http://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones  4,HD,CHAP3,4565,http://04campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
