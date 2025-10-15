@@ -37,7 +37,7 @@ HBO Max Avances,HD,MAXAVA,5333,http://01max-dash-movistarplus.emisiondof6.com/ma
 SkyShowtime 1,HD,SKYSHO,5271,http://01sky-dash-movistarplus.emisiondof6.com/manifest.mpd
 TCM,HD,TCM,4603,http://tcm-dash-movistarplus.emisiondof6.com/manifest.mpd
 AXN Movies,HD,SET,4535,http://moviesaxn-dash-movistarplus.emisiondof6.com/manifest.mpd
-BBC Drama,HD,BBDRA,5363,http://dramabbc-dash-movistarplus.emisiondof6.com/manifest.mpd
+BBC Series,HD,BBDRA,5363,http://seriesbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 BBC Top Gear,HD,BBGEA,5369,http://topgearbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 Paramount Network,HD,PARCH,4586,http://paramount-dash-movistarplus.emisiondof6.com/manifest.mpd
 BE MAD,HD,BEMAD,4560,http://bemad-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -85,8 +85,10 @@ National Geographic,HD,NATGEO,4604,http://geonat-dash-movistarplus.emisiondof6.c
 Nat Geo Wild,HD,NATGW,4610,http://wildnatgeo-dash-movistarplus.emisiondof6.com/manifest.mpd
 BBC History,HD,BBHIS,5366,http://historybbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 Discovery,HD,DCR,4545,http://discovery-dash-movistarplus.emisiondof6.com/manifest.mpd
+BBC Earth,HD,BBCEAR,5485,http://earthbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 DMAX,HD,DCRMAX,5244,http://dmax-dash-movistarplus.emisiondof6.com/manifest.mpd
 BBC Food,HD,BBFOO,5360,http://foodbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
+BBC Lifestyle,HD,BBCLIF,5482,http://lifebbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 DKISS,HD,DKISS,5246,http://dkiss-dash-movistarplus.emisiondof6.com/manifest.mpd
 Divinity,HD,DIVINI,4507,http://divinity-dash-movistarplus.emisiondof6.com/manifest.mpd
 Nova,HD,NOVA,4601,http://nova-dash-movistarplus.emisiondof6.com/manifest.mpd
