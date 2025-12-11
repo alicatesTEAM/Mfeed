@@ -75,7 +75,10 @@ Nat Geo Wild,HD,NATGW,4610,http://wildnatgeo-dash-movistarplus.emisiondof6.com/m
 BBC History,HD,BBHIS,5366,http://historybbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 Discovery,HD,DCR,4545,http://discovery-dash-movistarplus.emisiondof6.com/manifest.mpd
 BBC Earth,HD,BBCEAR,5485,http://earthbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
+DAZN Baloncesto,HD,DAZBA,5499,http://1basketdazn-dash-movistarplus.emisiondof6.com/manifest.mpd
+DAZN Baloncesto 2,HD,DAZB2,5503,http://2basketdazn-dash-movistarplus.emisiondof6.com/manifest.mpd
 DMAX,HD,DCRMAX,5244,http://dmax-dash-movistarplus.emisiondof6.com/manifest.mpd
+DAZN Baloncesto 3,HD,DAZB3,5506,http://3basketdazn-dash-movistarplus.emisiondof6.com/manifest.mpd
 BBC Food,HD,BBFOO,5360,http://foodbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 BBC Lifestyle,HD,BBCLIF,5482,http://lifebbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 DKISS,HD,DKISS,5246,http://dkiss-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -181,6 +184,3 @@ Pruebas 24,SD,PRUE24,5290,http://03pruebasim-dash-movistarplus.emisiondof6.com/m
 Pruebas 25,SD,PRUE25,5291,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 26,SD,PRUE26,5293,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Try,HD,FREELI,5487,http://freemiumorig-dash-movistarplus.emisiondof6.com/manifest.mpd
-DAZN Baloncesto,HD,DAZBA,5499,http://1basketdazn-dash-movistarplus.emisiondof6.com/manifest.mpd
-DAZN Baloncesto 2,HD,DAZB2,5503,http://2basketdazn-dash-movistarplus.emisiondof6.com/manifest.mpd
-DAZN Baloncesto 3,HD,DAZB3,5506,http://3basketdazn-dash-movistarplus.emisiondof6.com/manifest.mpd
