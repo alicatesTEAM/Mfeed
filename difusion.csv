@@ -27,7 +27,6 @@ TCM,HD,TCM,4603,http://tcm-dash-movistarplus.emisiondof6.com/manifest.mpd
 AXN Movies,HD,SET,4535,http://moviesaxn-dash-movistarplus.emisiondof6.com/manifest.mpd
 BBC Series,HD,BBDRA,5363,http://seriesbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 BBC Top Gear,HD,BBGEA,5369,http://topgearbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
-Paramount Network,HD,PARCH,4586,http://paramount-dash-movistarplus.emisiondof6.com/manifest.mpd
 BE MAD,HD,BEMAD,4560,http://bemad-dash-movistarplus.emisiondof6.com/manifest.mpd
 STAR Channel,HD,FOXGE,4528,http://01star-dash-movistarplus.emisiondof6.com/manifest.mpd
 AXN,HD,AXN,4529,http://1axn-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -94,7 +93,6 @@ Dreamworks,HD,DWSP,4965,http://dreamworks-dash-movistarplus.emisiondof6.com/mani
 Boing,SD,BOING,4563,http://boing-dash-movistarplus.emisiondof6.com/manifest.mpd
 Clan TVE,HD,CLANTV,4611,http://clan-dash-movistarplus.emisiondof6.com/manifest.mpd
 MTV,SD,MTV,4499,http://espanamtv-dash-movistarplus.emisiondof6.com/manifest.mpd
-MTV 00s,SD,VH1,4567,http://00smtv-dash-movistarplus.emisiondof6.com/manifest.mpd
 Mezzo,HD,MEZZO,4571,http://sdmezzo-dash-movistarplus.emisiondof6.com/manifest.mpd
 Mezzo Live,SD,MEZZLI,4891,http://livehdmezzo-dash-movistarplus.emisiondof6.com/manifest.mpd
 Classica,HD,CLASSD,4612,http://clasica-dash-movistarplus.emisiondof6.com/manifest.mpd
