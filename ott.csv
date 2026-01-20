@@ -26,6 +26,7 @@ M+ Hits,HD,MHITS,4527,http://m1hits-dash-movistarplus.emisiondof6.com/manifest.m
 M+ Originales,HD,MORIG,5259,http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Tierra Media,HD,MTIME,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Documentales,HD,MDOC,5245,http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Cine bélico,HD,MCIBE,5252,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Clásicos,HD,MCLAS,4999,http://mclasicos-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Acción,HD,CPACCI,4542,http://accion-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Comedia,HD,CPCOME,4573,http://comedia-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -132,7 +133,6 @@ Aragón TV Int,SD,ARAGON,4615,http://aragon-dash-movistarplus.emisiondof6.com/ma
 Telemadrid Int.,HD,TELMIN,5092,http://inttelemadrid-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA 3,HD,MLIG2,4834,http://3liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA 4,HD,MLIG3,4835,http://4liga-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ LALIGA 5,HD,MLIG4,4836,http://5liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones 14,SD,CHAP13,5108,http://14campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones 15,SD,CHAP14,5110,http://15campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones 16,SD,CHAP15,5112,http://16campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
