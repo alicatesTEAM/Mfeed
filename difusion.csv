@@ -61,6 +61,7 @@ M+ Deportes 4,HD,USOP3,4561,http://4multidep-dash-movistarplus.emisiondof6.com/m
 M+ Golf,HD,GOLF+,4584,http://mgolf-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Golf 2,HD,GOLF2,5196,http://2golf-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN F1,HD,MVF1,4608,http://formula1-dash-movistarplus.emisiondof6.com/manifest.mpd
+DAZN MotoGP,HD,DAZMOT,5523,http://1motodazn-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN 1,HD,M1SD,4949,http://01dazn-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN 2,HD,M2SD,4950,http://02dazn-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN Baloncesto,HD,DAZBA,5499,http://1basketdazn-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -177,4 +178,3 @@ Pruebas 24,SD,PRUE24,5290,http://03pruebasim-dash-movistarplus.emisiondof6.com/m
 Pruebas 25,SD,PRUE25,5291,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 26,SD,PRUE26,5293,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Try,HD,FREELI,5487,http://freemiumorig-dash-movistarplus.emisiondof6.com/manifest.mpd
-DAZN MotoGP,HD,DAZMOT,5523,http://1motodazn-dash-movistarplus.emisiondof6.com/manifest.mpd
