@@ -19,7 +19,7 @@ IB3,HD,IB3,5091,http://tdt3ibiza-dash-movistarplus.emisiondof6.com/manifest.mpd
 Telemadrid,HD,TELMAD,4981,http://tdttelemadrid-dash-movistarplus.emisiondof6.com/manifest.mpd
 À Punt,HD,APUNT,5088,http://tdtapuntvalencia-dash-movistarplus.emisiondof6.com/manifest.mpd
 7 TV Región Murcia,HD,7TVMUR,5356,http://tdtmurcia-dash-movistarplus.emisiondof6.com/manifest.mpd
-ETB 1,HD,ETB1,5074,http://tdt1etb-dash-movistarplus.emisiondof6.com/manifest.mpd
+etb1,HD,ETB1,5074,http://tdt1etb-dash-movistarplus.emisiondof6.com/manifest.mpd
 Navarra TV,HD,NAVA,5210,http://tdtnavarra-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Estrenos,HD,MV1,4501,http://m1estrenos-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Hits,HD,MHITS,4527,http://m1hits-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -133,7 +133,7 @@ Canal Extremadura Sat,SD,EXTREM,4614,http://extremadura-dash-movistarplus.emisio
 TV3 Cat,HD,TVC,4555,http://tv3cat-dash-movistarplus.emisiondof6.com/manifest.mpd
 Aragón TV Int,SD,ARAGON,4615,http://aragon-dash-movistarplus.emisiondof6.com/manifest.mpd
 Telemadrid Int.,HD,TELMIN,5092,http://inttelemadrid-dash-movistarplus.emisiondof6.com/manifest.mpd
-EITB Basque,SD,ETB,4557,http://etb-dash-movistarplus.emisiondof6.com/manifest.mpd
+etb2ON,SD,ETB,4557,http://etb-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA 3,HD,MLIG2,4834,http://3liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA 4,HD,MLIG3,4835,http://4liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION 3,HD,MLIGS3,5137,http://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
