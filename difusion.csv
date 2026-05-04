@@ -102,17 +102,17 @@ BBC News,HD,BBC,5256,http://worldbbc-dash-movistarplus.emisiondof6.com/manifest.
 CNN Int,HD,CNN,5254,http://intcnn-dash-movistarplus.emisiondof6.com/manifest.mpd
 Euronews,SD,ENW,5255,http://1euronews-dash-movistarplus.emisiondof6.com/manifest.mpd
 Al Jazeera English,HD,ALJAZE,5281,http://aljazeera-dash-movistarplus.emisiondof6.com/manifest.mpd
-FRANCE24 (FR),SD,FRANCE,5282,http://24france-dash-movistarplus.emisiondof6.com/manifest.mpd
+FRANCE24 (FR),HD,FRANCE,5282,http://24france-dash-movistarplus.emisiondof6.com/manifest.mpd
 1+1 Internacional,SD,INTEUA,5283,http://11int-dash-movistarplus.emisiondof6.com/manifest.mpd
 CNBC,HD,NBC,5284,http://01cnbc-dash-movistarplus.emisiondof6.com/manifest.mpd
-TV5MONDE,SD,TV5,5285,http://tv5monde-dash-movistarplus.emisiondof6.com/manifest.mpd
+TV5MONDE,HD,TV5,5285,http://tv5monde-dash-movistarplus.emisiondof6.com/manifest.mpd
 Bloomberg,SD,BL,5286,http://tvbloomberg-dash-movistarplus.emisiondof6.com/manifest.mpd
 El Toro TV,HD,INTECO,4893,http://eltorotv-dash-movistarplus.emisiondof6.com/manifest.mpd
 Negocios TV,SD,NEGOTV,4985,http://negociostv-dash-movistarplus.emisiondof6.com/manifest.mpd
 CGTN Español,SD,CCTV-E,5287,http://cgtn-dash-movistarplus.emisiondof6.com/manifest.mpd
 UCL,SD,UCL,5414,http://tvucl-dash-movistarplus.emisiondof6.com/manifest.mpd
 Canal Sur Andalucía,HD,ANTV,4764,http://csur-dash-movistarplus.emisiondof6.com/manifest.mpd
-TVG Europa,SD,TVG,4548,http://galicia-dash-movistarplus.emisiondof6.com/manifest.mpd
+TVG Europa,HD,TVG,4548,http://galicia-dash-movistarplus.emisiondof6.com/manifest.mpd
 Canal Extremadura Sat,SD,EXTREM,4614,http://extremadura-dash-movistarplus.emisiondof6.com/manifest.mpd
 TV3 Cat,HD,TVC,4555,http://tv3cat-dash-movistarplus.emisiondof6.com/manifest.mpd
 Aragón TV Int,SD,ARAGON,4615,http://aragon-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -128,7 +128,7 @@ M+ Liga de Campeones 5,HD,CHAP4,4568,http://05campeones-dash-movistarplus.emisio
 M+ Deportes 5,HD,USOP11,4562,http://5multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes 6,HD,MULTI8,4566,http://6multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes 7,HD,MULTI6,4569,http://7multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Deportes 8,SD,MULTI9,4769,http://8multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Deportes 8,HD,MULTI9,4769,http://8multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN 3,HD,DAZN3,4961,http://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN 4,HD,DAZN4,4962,http://dazn4-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 1_OTT,SD,P1OTT,5121,http://test01-dash-movistarplus.emisiondof6.com/manifest.mpd
