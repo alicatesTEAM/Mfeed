@@ -53,7 +53,6 @@ DAZN LALIGA 2,HD,DAZNL2,5120,http://02ligdazn-dash-movistarplus.emisiondof6.com/
 LALIGA TV HYPERMOTION 2,HD,MLIGS2,5127,http://2segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones,HD,CHAPIO,4594,http://mligacampeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones 2,HD,CHAP1,4581,http://02campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Liga de Campeones  3,HD,CHAP2,4564,http://03campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes,HD,CPDEP,4592,http://mdeportes-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes 2,HD,ARTHUR,4585,http://2multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes 3,HD,USOP2,4556,http://3multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -126,8 +125,6 @@ DAZN LALIGA 3,HD,DAZNL3,5209,http://03daznliga-dash-movistarplus.emisiondof6.com
 DAZN LALIGA 4,HD,DAZNL4,5213,http://04daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN LALIGA 5,HD,DAZNL5,5372,http://05daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION 3,HD,MLIGS3,5137,http://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Liga de Campeones  4,HD,CHAP3,4565,http://04campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Liga de Campeones 5,HD,CHAP4,4568,http://05campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes 5,HD,USOP11,4562,http://5multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes 6,HD,MULTI8,4566,http://6multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes 7,HD,MULTI6,4569,http://7multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -174,3 +171,4 @@ Pruebas 26,SD,PRUE26,5293,http://05pruebasim-dash-movistarplus.emisiondof6.com/m
 M+ Cero,HD,FREELI,5487,http://freemiumorig-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Baloncesto,HD,MBALCT,5536,http://1mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Baloncesto 2,HD,MBALC2,5539,http://2mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
+LALIGA TV HYPERMOTION 8,HD,MLIGS8,5543,http://8segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
