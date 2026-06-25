@@ -122,9 +122,10 @@ Telemadrid Int.,HD,TELMIN,5092,http://inttelemadrid-dash-movistarplus.emisiondof
 etb1ON,HD,ETB3,5531,http://etb1onsat-dash-movistarplus.emisiondof6.com/manifest.mpd
 etb2ON,SD,ETB,4557,http://etb-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA 3,HD,MLIG2,4834,http://3liga-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ LALIGA 4,HD,MLIG3,4835,http://4liga-dash-movistarplus.emisiondof6.com/manifest.mpd
+DAZN Mundial 6,HD,MLIG3,4835,http://4liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN MUNDIAL 3,HD,DAZNL3,5209,http://03daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN MUNDIAL 4,HD,DAZNL4,5213,http://04daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
+DAZN Mundial 5,HD,DAZNL5,5372,http://05daznliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION 3,HD,MLIGS3,5137,http://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones  4,HD,CHAP3,4565,http://04campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones 5,HD,CHAP4,4568,http://05campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -145,10 +146,10 @@ Pruebas 17_OTT,SD,P17OTT,5145,http://test17-dash-movistarplus.emisiondof6.com/ma
 Pruebas 18_OTT,SD,P18OTT,5146,http://test18-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 19_OTT,SD,P19OTT,5147,http://test19-dash-movistarplus.emisiondof6.com/manifest.mpd
 SKAM,SD,SKAM,4896,http://skam-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Wimbledon UHD,4K,POPUHD,5313,http://1eventuhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
-M+ LALIGA 2 HDR,HD,MLIUHD,5474,http://hdr2liga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
-Test UHD 1,4K,TESUHD,5057,http://1uhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 M+ LALIGA HDR,HD,MLIGUH,5077,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+M+ LALIGA 2 HDR,HD,MLIUHD,5474,http://hdr2liga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+M+ Wimbledon UHD,4K,POPUHD,5313,http://1eventuhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+Test UHD 1,4K,TESUHD,5057,http://1uhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 Pruebas 20 SD_OTT,SD,P20OTT,5162,http://test20-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 21_SD_OTT,SD,P21OTT,5163,http://test21-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 22_SD_OTT,SD,P22OTT,5164,https://test22-dash-movistarplus.emisiondof6.com/manifest.mpd
