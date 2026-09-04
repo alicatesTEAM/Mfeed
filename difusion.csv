@@ -156,6 +156,8 @@ LA 1 (BALEARES),HD,LA1BAL,5568,http://canalesabr-dash-movistarplus.emisiondof6.c
 LA 1 (EXTREMADURA),HD,LA1EXT,5583,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 La Otra,HD,OTRA,5601,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 LA 1 (CANARIAS),HD,LA1CAN,5590,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+CGTN Documentary,HD,CGTND,5352,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (PAÍS VASCO),HD,LA1PV,5581,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones  4,HD,CHAP3,4565,http://04campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones 5,HD,CHAP4,4568,http://05campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones 6,HD,CHAP5,4570,http://06campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -188,7 +190,6 @@ SKAM,SD,SKAM,4896,http://skam-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA HDR,HD,MLIGUH,5077,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 M+ LALIGA 2 HDR,HD,MLIUHD,5474,http://hdr2liga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 Test UHD 1,4K,TESUHD,5057,http://1uhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
-CGTN Documentary,HD,CGTND,5352,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 20 SD_OTT,SD,P20OTT,5162,http://test20-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 21_SD_OTT,SD,P21OTT,5163,http://test21-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 22_SD_OTT,SD,P22OTT,5164,https://test22-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -212,7 +213,6 @@ Pruebas 24,SD,PRUE24,5290,http://03pruebasim-dash-movistarplus.emisiondof6.com/m
 Pruebas 25,SD,PRUE25,5291,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 26,SD,PRUE26,5293,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Cero,HD,FREELI,5487,http://freemiumorig-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 1 (PAÍS VASCO),HD,LA1PV,5581,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 LA 1 (ARAGÓN),HD,LA1AR,5582,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 LA 1 (GALICIA),HD,LA1GAL,5584,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 LA 1 (MADRID),HD,LA1MAD,5588,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
