@@ -124,40 +124,7 @@ etb2ON,SD,ETB,4557,http://etb-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA 3,HD,MLIG2,4834,http://3liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA 4,HD,MLIG3,4835,http://4liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 TVG 2,HD,TVG2,5567,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-TV Chile,SD,CHILE,5573,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-Canal de las Estrellas,SD,GALAV,5572,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-TV Colombia,SD,COLOMB,5574,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-Cubavisión,HD,CUBAV,5575,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-Telesur,HD,TLESUR,5576,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-Iberalia TV,HD,IBERAL,5577,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 1 (CANTABRIA),HD,LA1CB,5578,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 1 (CASTILLA LA MANCHA),HD,LA1CM,5579,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 1 (NAVARRA),HD,LA1NA,5586,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 1 (LA RIOJA),HD,LA1LR,5587,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 2 (CANARIAS),HD,LA2CAN,5593,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-Antena 3 (CANARIAS),HD,A3CAN,5594,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-Telecinco Canarias,HD,T5CAN,5595,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-Atlántico TV,HD,ATLAT,5603,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-TPA,HD,TPA,5596,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-Andalucía TV,HD,ANDATV,5598,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-SX3,HD,C33,5602,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-3CatInfo,SD,3_24,5604,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-EWTN,SD,EWTN,5608,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-Esport 3,HD,ESP3,5605,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-Betevé,HD,BTV,5606,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-Playboy TV,HD,PBOY,5607,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 1 (CASTILLA Y LEÓN),HD,LA1CL,5580,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 2 (CAT),HD,LA2CAT,5592,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-La Ocho TV,SD,MEDITE,5600,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 1 (MURCIA),HD,LA1MUR,5569,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-etb2,HD,ETB2,5599,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 1 (BALEARES),HD,LA1BAL,5568,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-33,SD,CAN33,5597,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 1 (EXTREMADURA),HD,LA1EXT,5583,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-La Otra,HD,OTRA,5601,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 1 (CANARIAS),HD,LA1CAN,5590,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 CGTN Documentary,HD,CGTND,5352,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-LA 1 (PAÍS VASCO),HD,LA1PV,5581,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones  4,HD,CHAP3,4565,http://04campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones 5,HD,CHAP4,4568,http://05campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones 6,HD,CHAP5,4570,http://06campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -177,6 +144,8 @@ M+ Deportes 8,HD,MULTI9,4769,http://8multidep-dash-movistarplus.emisiondof6.com/
 DAZN 3,HD,DAZN3,4961,http://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN 4,HD,DAZN4,4962,http://dazn4-dash-movistarplus.emisiondof6.com/manifest.mpd
 LALIGA TV HYPERMOTION 3,HD,MLIGS3,5137,http://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Baloncesto 4,HD,MBALC4,5612,http://4mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Baloncesto 5,HD,MBALC5,5615,http://5mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 1_OTT,SD,P1OTT,5121,http://test01-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 2_OTT,SD,P2OTT,4924,http://test02-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 3_OTT,SD,P3OTT,5052,http://test03-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -220,3 +189,36 @@ LA 1 (CAT),HD,LA1CAT,5591,http://canalesabr-dash-movistarplus.emisiondof6.com/ma
 LA 1 (VALENCIA),HD,LA1VAL,5589,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 LA 1 (ASTURIAS),HD,LA1AST,5570,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 LA 1 (ANDALUCÍA),HD,LA1AND,5571,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (CASTILLA Y LEÓN),HD,LA1CL,5580,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (MURCIA),HD,LA1MUR,5569,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (BALEARES),HD,LA1BAL,5568,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (EXTREMADURA),HD,LA1EXT,5583,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (CANARIAS),HD,LA1CAN,5590,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (PAÍS VASCO),HD,LA1PV,5581,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (CANTABRIA),HD,LA1CB,5578,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (CASTILLA LA MANCHA),HD,LA1CM,5579,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (NAVARRA),HD,LA1NA,5586,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (LA RIOJA),HD,LA1LR,5587,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 2 (CAT),HD,LA2CAT,5592,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 2 (CANARIAS),HD,LA2CAN,5593,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Telecinco Canarias,HD,T5CAN,5595,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+La Otra,HD,OTRA,5601,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+TV Chile,SD,CHILE,5573,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Canal de las Estrellas,SD,GALAV,5572,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+TV Colombia,SD,COLOMB,5574,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Cubavisión,HD,CUBAV,5575,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Telesur,HD,TLESUR,5576,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Antena 3 (CANARIAS),HD,A3CAN,5594,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Iberalia TV,HD,IBERAL,5577,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Atlántico TV,HD,ATLAT,5603,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+TPA,HD,TPA,5596,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Andalucía TV,HD,ANDATV,5598,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+SX3,HD,C33,5602,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+3CatInfo,SD,3_24,5604,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+EWTN,SD,EWTN,5608,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Esport 3,HD,ESP3,5605,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Betevé,HD,BTV,5606,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Playboy TV,HD,PBOY,5607,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+La Ocho TV,SD,MEDITE,5600,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+etb2,HD,ETB2,5599,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+33,SD,CAN33,5597,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
