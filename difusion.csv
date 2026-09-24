@@ -123,9 +123,8 @@ etb1ON,HD,ETB3,5531,http://etb1onsat-dash-movistarplus.emisiondof6.com/manifest.
 etb2ON,SD,ETB,4557,http://etb2onsat-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA 3,HD,MLIG2,4834,http://3liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA 4,HD,MLIG3,4835,http://4liga-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Baloncesto 4,HD,MBALC4,5612,http://4mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Baloncesto 5,HD,MBALC5,5615,http://5mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
 CGTN Documentary,HD,CGTND,5352,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LALIGA TV HYPERMOTION 3,HD,MLIGS3,5137,http://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones  4,HD,CHAP3,4565,http://04campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones 5,HD,CHAP4,4568,http://05campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Liga de Campeones 6,HD,CHAP5,4570,http://06campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -140,9 +139,10 @@ M+ Deportes 4,HD,USOP3,4561,http://4multidep-dash-movistarplus.emisiondof6.com/m
 M+ Deportes 5,HD,USOP11,4562,http://5multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Deportes 6,HD,MULTI8,4566,http://6multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Baloncesto 3,HD,MBALC3,5566,http://3mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Baloncesto 4,HD,MBALC4,5612,http://4mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Baloncesto 5,HD,MBALC5,5615,http://5mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN 3,HD,DAZN3,4961,http://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd
 DAZN 4,HD,DAZN4,4962,http://dazn4-dash-movistarplus.emisiondof6.com/manifest.mpd
-LALIGA TV HYPERMOTION 3,HD,MLIGS3,5137,http://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 1_OTT,SD,P1OTT,5121,http://test01-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 2_OTT,SD,P2OTT,4924,http://test02-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 3_OTT,SD,P3OTT,5052,http://test03-dash-movistarplus.emisiondof6.com/manifest.mpd
