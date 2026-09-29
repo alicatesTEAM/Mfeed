@@ -153,13 +153,13 @@ Pruebas 17_OTT,SD,P17OTT,5145,http://test17-dash-movistarplus.emisiondof6.com/ma
 Pruebas 18_OTT,SD,P18OTT,5146,http://test18-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 19_OTT,SD,P19OTT,5147,http://test19-dash-movistarplus.emisiondof6.com/manifest.mpd
 SKAM,SD,SKAM,4896,http://skam-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Liga de Campeones HDR,HD,CHHDR,5418,http://uhdmcampeones-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 M+ LALIGA HDR,HD,MLIGUH,5077,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 M+ LALIGA 2 HDR,HD,MLIUHD,5474,http://hdr2liga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 Test UHD 1,4K,TESUHD,5057,http://1uhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
-Pruebas 20 SD_OTT,SD,P20OTT,5162,http://test20-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 21_SD_OTT,SD,P21OTT,5163,http://test21-dash-movistarplus.emisiondof6.com/manifest.mpd
-Pruebas 22_SD_OTT,SD,P22OTT,5164,https://test22-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Cero,HD,FREELI,5487,http://freemiumorig-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Cero 2,HD,CERO2,5618,http://02origfreemium-dash-movistarplus.emisiondof6.com/manifest.mpd
 TV3,SD,TV3CAT,4982,http://tdttv3-dash-movistarplus.emisiondof6.com/manifest.mpd
 La Otra,HD,OTRA,5601,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 TV Chile,SD,CHILE,5573,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -220,4 +220,3 @@ Pruebas 23,SD,PRUE23,5289,http://02pruebasim-dash-movistarplus.emisiondof6.com/m
 Pruebas 24,SD,PRUE24,5290,http://03pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 25,SD,PRUE25,5291,http://04pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 26,SD,PRUE26,5293,http://05pruebasim-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Cero 2,HD,CERO2,5618,http://02origfreemium-dash-movistarplus.emisiondof6.com/manifest.mpd
