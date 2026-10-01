@@ -35,7 +35,7 @@ Warner TV,HD,TNT,4530,http://tvwarner-dash-movistarplus.emisiondof6.com/manifest
 Comedy Central,HD,PCM,4531,http://comedycentral-dash-movistarplus.emisiondof6.com/manifest.mpd
 Calle 13,HD,CL13,4532,http://calle13-dash-movistarplus.emisiondof6.com/manifest.mpd
 COSMO,HD,COSMO,4533,http://cosmo-dash-movistarplus.emisiondof6.com/manifest.mpd
-SYFY,HD,SCI-FI,4536,http://syfy-dash-movistarplus.emisiondof6.com/manifest.mpd
+SciFi,HD,SCI-FI,4536,http://syfy-dash-movistarplus.emisiondof6.com/manifest.mpd
 Veo7,HD,VEO7,5479,http://veo7-dash-movistarplus.emisiondof6.com/manifest.mpd
 TRECE,HD,13TV,5094,http://tdt13tv-dash-movistarplus.emisiondof6.com/manifest.mpd
 Energy,HD,ENERGY,4540,http://energy-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -70,7 +70,7 @@ DAZN Baloncesto 2,HD,DAZB2,5503,http://2basketdazn-dash-movistarplus.emisiondof6
 DAZN Baloncesto 3,HD,DAZB3,5506,http://3basketdazn-dash-movistarplus.emisiondof6.com/manifest.mpd
 Eurosport 1,HD,ESP,4605,http://eurosport1-dash-movistarplus.emisiondof6.com/manifest.mpd
 Eurosport 2,HD,ESP2,4580,http://eurosport2-dash-movistarplus.emisiondof6.com/manifest.mpd
-GOL,HD,GOL,4577,http://goltv-dash-movistarplus.emisiondof6.com/manifest.mpd
+Replay,HD,GOL,4577,http://goltv-dash-movistarplus.emisiondof6.com/manifest.mpd
 Teledeporte,HD,TDEP,4504,http://teledeporte-dash-movistarplus.emisiondof6.com/manifest.mpd
 Real Madrid TV,HD,REALM,5198,http://realmadrid-dash-movistarplus.emisiondof6.com/manifest.mpd
 Caza y Pesca,HD,CAZPES,4606,http://cazaypesca-dash-movistarplus.emisiondof6.com/manifest.mpd
