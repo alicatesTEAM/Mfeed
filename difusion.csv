@@ -115,7 +115,7 @@ UCL,SD,UCL,5414,http://tvucl-dash-movistarplus.emisiondof6.com/manifest.mpd
 Canal RED,HD,RED,5529,http://redcanal-dash-movistarplus.emisiondof6.com/manifest.mpd
 Canal Sur Andalucía,HD,ANTV,4764,http://csur-dash-movistarplus.emisiondof6.com/manifest.mpd
 TVG Europa,HD,TVG,4548,http://galicia-dash-movistarplus.emisiondof6.com/manifest.mpd
-Canal Extremadura Sat,SD,EXTREM,4614,http://extremadura-dash-movistarplus.emisiondof6.com/manifest.mpd
+Canal Extremadura Sat,HD,EXTREM,4614,http://extremadura-dash-movistarplus.emisiondof6.com/manifest.mpd
 TV3 Cat,HD,TVC,4555,http://tv3cat-dash-movistarplus.emisiondof6.com/manifest.mpd
 Aragón TV Int,SD,ARAGON,4615,http://aragon-dash-movistarplus.emisiondof6.com/manifest.mpd
 Telemadrid Int.,HD,TELMIN,5092,http://inttelemadrid-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -171,12 +171,12 @@ Atlántico TV,HD,ATLAT,5603,http://canalesabr-dash-movistarplus.emisiondof6.com/
 TPA,HD,TPA,5596,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 Andalucía TV,HD,ANDATV,5598,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 SX3,HD,C33,5602,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-3CatInfo,SD,3_24,5604,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+3CatInfo,HD,3_24,5604,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 EWTN,SD,EWTN,5608,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 Esport 3,HD,ESP3,5605,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 Betevé,HD,BTV,5606,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 Playboy TV,HD,PBOY,5607,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
-La Ocho TV,SD,MEDITE,5600,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+La Ocho TV,HD,MEDITE,5600,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 TVG 2,HD,TVG2,5567,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 etb2,HD,ETB2,5599,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 33,SD,CAN33,5597,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
