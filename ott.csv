@@ -5,8 +5,8 @@ Antena 3,HD,A3,4523,http://antena3-dash-movistarplus.emisiondof6.com/manifest.mp
 Cuatro,HD,C4,4524,http://cuatro-dash-movistarplus.emisiondof6.com/manifest.mpd
 Telecinco,HD,T5,4525,http://tele5-dash-movistarplus.emisiondof6.com/manifest.mpd
 La Sexta,HD,SEXTA,4526,http://lasexta-dash-movistarplus.emisiondof6.com/manifest.mpd
+La Séptima,HD,SEPTIM,5624,http://laseptima-dash-movistarplus.emisiondof6.com/manifest.mpd
 Movistar Plus,HD,MPLUS,5240,http://mplus-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Vamos,HD,VAMOSD,4767,http://vamos-dash-movistarplus.emisiondof6.com/manifest.mpd
 Aragón TV,HD,ARAGTV,5090,http://tdttvaragon-dash-movistarplus.emisiondof6.com/manifest.mpd
 Canal Sur,HD,CANSUR,4980,http://tdtcsur-dash-movistarplus.emisiondof6.com/manifest.mpd
 TV3,SD,TV3CAT,4982,http://tdttv3-dash-movistarplus.emisiondof6.com/manifest.mpd
@@ -21,11 +21,12 @@ Telemadrid,HD,TELMAD,4981,http://tdttelemadrid-dash-movistarplus.emisiondof6.com
 7 TV Región Murcia,HD,7TVMUR,5356,http://tdtmurcia-dash-movistarplus.emisiondof6.com/manifest.mpd
 etb1,HD,ETB1,5074,http://tdt1etb-dash-movistarplus.emisiondof6.com/manifest.mpd
 Navarra TV,HD,NAVA,5210,http://tdtnavarra-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Vamos,HD,VAMOSD,4767,http://vamos-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Estrenos,HD,MV1,4501,http://m1estrenos-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Hits,HD,MHITS,4527,http://m1hits-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Originales,HD,MORIG,5259,http://moriginales-dash-movistarplus.emisiondof6.com/manifest.mpd
-M+ Terror,HD,TERROR,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Documentales,HD,MDOC,5245,http://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd
+M+ Terror,HD,TERROR,4955,http://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Romance,HD,MROMA,5252,http://02popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Clásicos,HD,MCLAS,4999,http://mclasicos-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ Acción,HD,CPACCI,4542,http://accion-dash-movistarplus.emisiondof6.com/manifest.mpd
