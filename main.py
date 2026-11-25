@@ -8,7 +8,8 @@ difusion_csv_filepath = "difusion.csv"
 
 def export_movistarEPG_to_csv(epg_url, filepath):
 
-    response = requests.get(epg_url)
+    #response = requests.get(epg_url)
+    response = requests.get(epg_url, verify=False, timeout=30)
     if response.status_code == 200:
         movistarEPG = response.json()
     else:
